@@ -1,1 +1,1 @@
-# github_integration
+# Backbone.js Boilerplate
